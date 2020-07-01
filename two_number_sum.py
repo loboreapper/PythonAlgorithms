@@ -27,5 +27,3 @@ def fastTwoNumberSum(array, targetSum):
             numbers_dict[number] = to_find
     return []
 
-
-# ERROR
